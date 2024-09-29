@@ -11,7 +11,7 @@ A simple To-Do application built using **HTML**, **CSS**, and **JavaScript**. Th
 
 ## Demo
 
-![To-Do App Screenshot](assets/images/todo-app.png)
+![To-Do App Screenshot](assets/images/TodoApp%20Preview.png)
 
 ## Folder Structure
 
@@ -77,7 +77,7 @@ Follow the instructions below to clone and run the project locally.
 
 ## Project Preview
 
-![Project Preview](assets/images/project-preview.png)
+![Project Preview](assets/images/TodoApp%20Preview.png)
 
 ## Technologies Used
 
@@ -104,8 +104,8 @@ If you'd like to contribute to this project, please follow these steps:
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: youremail@example.com
+- **GitHub**: [Abdullah-Al-Sobail](https://github.com/Abdullah-Al-Sobail)
+- **Email**: abdullahalsobail78@gmail.com
 
 
 ### Key Sections:
@@ -115,5 +115,3 @@ For any questions or feedback, feel free to reach out:
 - **Getting Started**: Step-by-step guide on how to clone, install, and run the app locally.
 - **Usage**: Instructions on how to use the to-do app.
 - **Contributing**: Guidelines on how to contribute to the project.
-
-You can replace the image paths and placeholders (`your-username`, `youremail@example.com`) with your own. Additionally, you might want to upload a screenshot of the app (`todo-app.png`) into the `assets/images/` directory and reference it in the `README.md` for a visual overview.
