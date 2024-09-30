@@ -1,22 +1,21 @@
-# To-Do App
+# Calculator App
 
-A simple To-Do application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to add, delete, and toggle tasks as completed. The tasks are saved to the browser's `localStorage` so they persist across sessions.
+A simple calculator application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
-- Add new tasks to the to-do list.
-- Delete tasks from the list.
-- Mark tasks as completed by clicking on them (strike-through effect).
-- Persist tasks using `localStorage`.
+- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Clear the current input and reset the calculator.
+- Display results in real-time as you input numbers and operators.
 
 ## Demo
 
-![To-Do App Screenshot](assets/images/TodoApp%20Preview.png)
+![Calculator App Screenshot](assets/images/calculatorUI.png)
 
 ## Folder Structure
 
 ```bash
-todo-app/
+calculator-app/
 ├── index.html               # The main HTML file
 ├── css/
 │   └── styles.css           # Custom CSS for styling the app
@@ -24,7 +23,7 @@ todo-app/
 │   └── app.js               # Main JavaScript file for the app
 ├── assets/
 │   └── images/              # (Optional) Folder for storing images
-│       └── logo.png         # Example of an image (can be removed)
+│       └── calculatorUI.png # Example of an image (can be removed)
 └── README.md                # Documentation of the project
 ```
 
@@ -44,13 +43,13 @@ Follow the instructions below to clone and run the project locally.
    Open your terminal or command prompt and run the following command to clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/Abdullah-Al-Sobail/todo-app.git
+   git clone https://github.com/Abdullah-Al-Sobail/calculator-app.git
    ```
 
 2. **Navigate to the project folder**:
 
    ```bash
-   cd todo-app
+   cd calculator-app
    ```
 
 3. **Open the project in a web browser**:
@@ -68,21 +67,20 @@ Follow the instructions below to clone and run the project locally.
 
 ## Usage
 
-- To add a task, type into the input field and click the "Add Task" button.
-- To delete a task, click the "Delete" button next to the task.
-- To mark a task as completed, click on the task text (it will toggle a strike-through).
-- All tasks are saved automatically using `localStorage`, so they will persist even after refreshing the page.
+- Click on the number buttons to input numbers.
+- Click on the operator buttons to select the desired operation.
+- Click the "=" button to calculate and display the result.
+- Click the "clear" button to reset the calculator.
 
 ## Project Preview
 
-![Project Preview](assets/images/TodoApp%20Preview.png)
+![Project Preview](assets/images/calculatorUI.png)
 
 ## Technologies Used
 
 - **HTML5**: For creating the structure of the app.
 - **CSS3**: For styling the UI.
-- **JavaScript**: For adding interactivity and handling task management.
-- **localStorage**: To store tasks persistently on the browser.
+- **JavaScript**: For adding interactivity and handling calculations.
 
 ## License
 
@@ -111,5 +109,6 @@ For any questions or feedback, feel free to reach out:
 - **Project Overview**: A brief introduction to the project and its functionality.
 - **Folder Structure**: Explanation of the files and directories in the project.
 - **Getting Started**: Step-by-step guide on how to clone, install, and run the app locally.
-- **Usage**: Instructions on how to use the to-do app.
+- **Usage**: Instructions on how to use the calculator app.
 - **Contributing**: Guidelines on how to contribute to the project.
+
